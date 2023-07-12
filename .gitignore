@@ -29,3 +29,7 @@ hs_err_pid*
 .classpath
 build
 /bin/
+
+# Eclipseのサーバ構成
+/Servers
+/.metadata
