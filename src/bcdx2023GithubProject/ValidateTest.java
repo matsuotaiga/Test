@@ -12,7 +12,7 @@ public class ValidateTest {
 	{
 		int validateCount = 0;
 		int totalCount = 0;
-		String filename = "src/sample.txt";
+		String filename = "src/NGWords.txt";
 
         try (BufferedReader in = new BufferedReader(new FileReader(new File(filename)))){
             String line;
